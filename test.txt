@@ -5,3 +5,7 @@ g
 df
 
 dalsi radek
+
+zde je nova funkce {
+ktera neco dela
+}
