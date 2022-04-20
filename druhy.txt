@@ -2,3 +2,5 @@ druhy
 druhy radek druheho souboru
 treti radek
 nova vetev 
+prvni
+prvni pokusny commit drrrrrrr
