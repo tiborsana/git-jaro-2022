@@ -1,3 +1,4 @@
+
 fgdfg
 dfg
 dfgdf
@@ -8,4 +9,9 @@ dalsi radek
 
 zde je nova funkce {
 ktera neco dela
+}
+
+zde je druha fce {
+ta taky neco dela, ale neco jineho
+oprava chyby
 }
